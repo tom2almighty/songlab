@@ -1,16 +1,15 @@
 ---
-title: 'An example journal article'
+title: 'Left is “good”: Observed action affects the association between horizontal space and affective valence'
 authors:
-  - admin
-  - Robert Ford
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-date: '2015-09-01T00:00:00Z'
-doi: ''
+  - 宋晓蕾
+  - Yi Feng
+  - Zhang Junting
+  - Robert W. Proctor
+date: '2019-12-01T00:00:00Z'
+doi: '10.1016/j.cognition.2019.104030'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2019-12-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -22,26 +21,20 @@ publication_types: ['2']
 publication: '*Journal of Source Themes, 1*(1)'
 publication_short: ''
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: According to the body-specificity hypothesis, people will associate positive and negative emotional valence with the relative fluency of the left or right responding hand. Prior studies have shown that temporary changes in the fluency of the responding hand can influence the association of emotional valence with left or right, even under circumstances of action observation. But the reason why this change occurs is still controversial. The purpose of the present study was to replicate this finding and to identify the underlying mechanism. Experiment 1 duplicated a modified paradigm “Bob goes to the zoo” to verify the existence of space-valence association for Chinese right–handers. The results indicated that they had the same pattern of right-good/left-bad. However, after action training and observation in Experiment 2 that reduced the fluency of the right hand temporarily, both actors’ and observers’ space-valence associations were reversed as well. However, when observers’ potential motor capacities were constrained by binding their responding hands behind them (Experiment 3) or in front of them (Experiment 4), the observers associated the positive affect with their dominant right hand instead of the left hand in Experiment 3, whereas the observers in Experiment 4 still showed the same association pattern as the actors and the observers in Experiment 2. This study provides further evidence that the effect of alternative motor fluency on space-valence association in the observer is mainly modulated by the connection between the outcomes and space, with body posture also influencing the association.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Source Themes
+  - 联合行动
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+url_pdf: https://sci-hub.se/downloads/2019-09-27/7c/song2019.pdf
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
