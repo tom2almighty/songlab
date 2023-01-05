@@ -4,8 +4,8 @@ widget_id: "10"
 headless: true
 weight: 10
 title: |
-  Wowchemy  
-  Research Group
+  SongLab  
+  智能人机交互实验室
 hero_media: welcome.jpg
 design:
   columns: "1"
