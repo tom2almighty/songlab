@@ -1,7 +1,7 @@
 ---
 title: 曹陈
 role: 讲师
-avatar_filename:avatar.jpg
+avatar_filename: avatar.jpg
 organizations:
   - name: 陕西师范大学
     url: "https://snnu.edu.cn"
