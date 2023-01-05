@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Contact
+title: 联系方式
 subtitle:
 
 content:
@@ -30,7 +30,6 @@ content:
   directions: 田家炳楼614
   office_hours:
     - 09:00 - 22:00
-  appointment_url: 'https://calendly.com'
   #contact_links:
   #  - icon: comments
   #    icon_pack: fas
