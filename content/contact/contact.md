@@ -27,9 +27,9 @@ content:
   coordinates:
     latitude: '34.2029'
     longitude: '108.9474'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  directions: 田家炳楼614
   office_hours:
-    - 09:00 - 22:00'
+    - 09:00 - 22:00
   appointment_url: 'https://calendly.com'
   #contact_links:
   #  - icon: comments
