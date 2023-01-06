@@ -3,8 +3,7 @@ widget: hero
 widget_id: "10"
 headless: true
 weight: 10
-title: |
-  SongLab  
+title: | 
   智能人机交互实验室
 hero_media: welcome.jpg
 design:
