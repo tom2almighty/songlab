@@ -1,10 +1,13 @@
 ---
 title: 宋晓蕾
-role: 应用心理学博士生导师
-avatar_filename: https://psych.snnu.edu.cn/__local/5/1A/DE/4F21DA18ACDE7014897331FAFB9_73F94C3D_3F969.jpg
-bio: 采用心理物理法、近红外超脑扫描、经颅磁刺激、虚拟现实和动作捕捉等技术手段，研究个体在空间认知导航、团队协同作业等复杂任务中的空间、具身及协同的认知及神经机制，以及在新型智能人机交互领域（如根据地图自动驾驶，人-智能体协同组队，多军种协同作战等作业）中的应用。
+role: 博士生导师
+avatar_filename:https://psych.snnu.edu.cn/__local/5/1A/DE/4F21DA18ACDE7014897331FAFB9_73F94C3D_3F969.jpg
+bio: 
 interests:
-  - 空间认知与导航、智能人机交互、神经人因学、协同作业
+  - 空间认知与导航
+  - 智能人机交互
+  - 神经人因学
+  - 协同作业
 social:
   - icon: envelope
     icon_pack: fas
