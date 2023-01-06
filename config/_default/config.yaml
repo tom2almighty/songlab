@@ -10,7 +10,7 @@ baseURL: 'https://lab.grew.cc/' # Website URL
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: cn
+defaultContentLanguage: zh
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: true
 removePathAccents: true
