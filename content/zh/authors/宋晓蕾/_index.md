@@ -1,7 +1,7 @@
 ---
 title: 宋晓蕾
 role: 博士生导师
-avatar_filename:https://psych.snnu.edu.cn/__local/5/1A/DE/4F21DA18ACDE7014897331FAFB9_73F94C3D_3F969.jpg
+avatar_filename: avatar.jpg
 bio: 
 interests:
   - 空间认知与导航
