@@ -8,7 +8,8 @@ bio: 采用虚拟现实、经颅磁刺激等技术，研究环境边界以及地
 ## 兴趣爱好
 interests:
   - 空间认知与导航
-
+authors:
+  - 李昱扬
 social:
   - icon: envelope
     icon_pack: fas
@@ -24,7 +25,7 @@ education:
       year: 2021
 ## 邮箱
 email: "1036704192@qq.com"
-superuser: true
+superuser: false
 user_groups:
   - 硕士
 highlight_name: false

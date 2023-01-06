@@ -5,7 +5,8 @@ role: 应用心理学硕士在读
 avatar_filename: avatar.jpg
 
 bio: 
-## 兴趣爱好
+authors:
+  - 赵俊慧
 interests:
   - 看书
   - 听音乐

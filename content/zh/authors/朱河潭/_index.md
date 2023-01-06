@@ -5,7 +5,8 @@ role: 应用心理硕士在读
 avatar_filename: avatar.jpg
 
 bio: 
-
+authors:
+  - 朱河潭
 interests:
   - 智能人机交互、人机组队
 

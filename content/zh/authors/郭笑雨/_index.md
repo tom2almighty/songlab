@@ -8,7 +8,8 @@ bio:
 
 interests:
   - 神经人因学、错误后反应
-
+authors:
+  - 郭笑雨
 social:
   - icon: envelope
     icon_pack: fas
@@ -24,7 +25,7 @@ education:
       year: 2016-2020
 ## 邮箱
 email: "gxy6356@163.com"
-superuser: true
+superuser: false
 user_groups:
   - 硕士
 highlight_name: false

@@ -5,7 +5,8 @@ role: 应用心理学博士在读
 avatar_filename: avatar.jpg
 
 bio: 新型智能人机交互
-
+authors:
+  - 田珍珍
 interests:
   - 智能人机交互
 

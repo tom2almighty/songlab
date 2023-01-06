@@ -5,9 +5,12 @@ role: 应用心理学硕士在读
 avatar_filename: avatar.jpg
 
 bio: 采用眼动技术、心理物理学方法等技术手段，研究复杂人机系统中的人因安全问题。
+authors:
+  - 林小莉
 
 interests:
-  - 人因安全、错误后反应
+  - 人因安全
+  - 错误后反应
 
 social:
   - icon: envelope
@@ -27,7 +30,7 @@ education:
       year: 2017-2021
 ## 邮箱
 email: "17861401181@163.com"
-superuser: true
+superuser: false
 user_groups:
   - 硕士
 highlight_name: false

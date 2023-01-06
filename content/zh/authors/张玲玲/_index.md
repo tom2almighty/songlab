@@ -5,7 +5,8 @@ role: 应用心理硕士在读
 avatar_filename: avatar.jpg
 
 bio: 
-
+authors:
+  - 张玲玲
 interests:
   - 空间认知与导航
 
@@ -24,7 +25,7 @@ education:
       year: 2023
 ## 邮箱
 email: zhanglingling0604@163.com
-superuser: true
+superuser: false
 user_groups:
   - 硕士
 highlight_name: false
