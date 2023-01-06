@@ -8,7 +8,7 @@ organizations:
 superuser: false
 authors:
   - 胡晓斐
-bio: 目前主要利用心理物理学手段和眼动设备进行视知觉领域的研究
+bio: 目前主要利用心理物理学手段和眼动设备进行视知觉领域的研究.
 interests:
   - 瞳孔控制通路、注意状态检测、立体视觉、触觉反馈
 social:
