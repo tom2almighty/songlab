@@ -9,7 +9,7 @@ design:
 
 ---
 <div align=center>
-<img src="https://faculty.snnu.edu.cn/_tsf/00/14/IJ7R7bUFVNRn.png" width="50%" height="50%" />
+<img src="https://faculty.snnu.edu.cn/_tsf/00/14/IJ7R7bUFVNRn.png" width="20%" height="20%" />
 </div>
 
 
