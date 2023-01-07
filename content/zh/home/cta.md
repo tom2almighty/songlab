@@ -6,7 +6,8 @@ headless: true
 weight: 40
 design:
   columns: '1'
-
+  css_style: .img-circle{border-radius:50%}
+  css_class: '.img-circle'
 ---
 <div align=center>
 <img src="https://faculty.snnu.edu.cn/_tsf/00/14/IJ7R7bUFVNRn.png" width="20%" height="20%" />
