@@ -5,7 +5,7 @@ widget: blank
 headless: true
 weight: 40
 design:
-  columns: '1'
+  columns: '2'
 ---
 
 <style>
@@ -14,7 +14,7 @@ design:
 }
 </style>
 <div align=center>
-<img src="https://faculty.snnu.edu.cn/_tsf/00/14/IJ7R7bUFVNRn.png" style="width="20%";height="20%";position:absolute;left:200px;top:200px;" />
+<img src="https://faculty.snnu.edu.cn/_tsf/00/14/IJ7R7bUFVNRn.png" style="float:left;" />
 </div>
 
 
