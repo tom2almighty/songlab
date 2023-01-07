@@ -6,7 +6,7 @@ headless: true
 weight: 40
 design:
   columns: '1'
-  css_style: .img-circle{border-radius:50%}
+  css_style: '.img-circle{border-radius:50%}'
   css_class: '.img-circle'
 ---
 <div align=center>
