@@ -5,7 +5,7 @@ headless: false
 weight: 20
 title: 参与项目
 design:
-  view: masonry
+  view: card
   
 ---
 <br>
