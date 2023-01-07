@@ -1,22 +1,22 @@
 ---
-title: 
+# Page title
+title: My page
+# Page type - we want a landing page (such as a homepage)
 type: landing
+
+# Your landing page sections - add as many different content blocks as you like
 sections:
   - block: markdown
-    id: welcome
+    id: section-1
     content:
-	  title: welcome
-	  text: 我们主要以VR虚拟场景、移动fNIRS、EEG、TMS、眼动和动作捕捉等硬件设备环境为基础，结合工程心理学专业特色和智能人机交互前沿技术，开展复杂人机系统中人因安全与工效等领域研究，以服务于国家重大需求及工程心理学科研与教学。
-	design:
-	  columns: '1'  
+      title: Section 1
+      subtitle: A subtitle
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
   - block: markdown
-    id: introduction
+    id: section-2
     content:
-      title: introduction
-      text: 宋晓蕾，博士，陕西师范大学心理学院教授，博士生导师；美国 Purdue University 国家公派访问学者，国家一流线下课程主讲教师；中国心理学会工程心理学专业委员会副主任，中国人类工效学会设计工效学专业委员会委员，陕西师范大学第七届学术委员会教学指导专委会委员，智能交互与虚拟现实实验室负责人。
-从事工程心理学与认知心理学交叉学科的教学与科研工作二十余年，主要采用心理物理法、近红外超脑扫描、经颅磁刺激、虚拟现实和动作捕捉等技术手段，研究个体在空间认知导航、团队协同作业等复杂任务中的空间、具身及协同的认知及神经机制，以及在新型智能人机交互领域（如根据地图自动驾驶，人-智能体协同组队，多军种协同作战等作业）中的应用。
-    design:
-      columns: '1'
+      title: Section 2
+      subtitle: A subtitle
+      text: Add your Section 2 content here...
 ---
-
 
