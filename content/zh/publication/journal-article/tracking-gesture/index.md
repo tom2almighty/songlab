@@ -1,11 +1,11 @@
 ---
-title: '追踪手势对视空间学习的增强作用'
+title: "追踪手势对视空间学习的增强作用"
 authors:
   - 贾筱倩
   - 宋晓蕾
 
 date: '2022-07-21T00:00:00Z'
-doi: 'https://doi.org/10.3724/SP.J.1041.2022.01009'
+doi: '10.3724/SP.J.1041.2022.01009'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2019-12-01T00:00:00Z'
@@ -32,14 +32,8 @@ featured: false
 #links:
 #  - name: Custom Link
 #    url: http://example.org
-url_pdf: 
-#url_code: '#'
-#url_dataset: '#'
-#url_poster: '#'
-#url_project: ''
-#url_slides: ''
-#url_source: '#'
-#url_video: '#'
+ 
+
 
 
 # Featured image
@@ -64,8 +58,3 @@ projects: []
 slides:
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
