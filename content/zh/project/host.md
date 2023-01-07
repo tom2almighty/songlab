@@ -5,7 +5,7 @@ headless: false
 weight: 10
 title: 主持项目
 design:
-  view: showcase
+  view: masonry
   
 ---
 <br>
