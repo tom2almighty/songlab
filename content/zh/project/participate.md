@@ -4,7 +4,7 @@ widget_id: "2"
 headless: false
 weight: 20
 title: 参与项目
-design：
+design:
   view: showcase
   
 ---
