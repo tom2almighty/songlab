@@ -1,5 +1,6 @@
 ---
 title: 
+type: landing
 sections:
   - block: markdown
     id: welcome
