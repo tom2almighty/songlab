@@ -5,7 +5,7 @@ widget: blank
 headless: true
 weight: 40
 design:
-  columns: '2'
+  columns: '1'
 blank_media: daoshi.jpg
 ---
 
