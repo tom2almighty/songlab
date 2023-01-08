@@ -20,7 +20,7 @@ content:
         color: '#666'
         brightness: 0.7
         media: welcome.jpg
-        fit: cover
+        fit: contain
       link: 
         text: "所有成员"
         url: /people/
@@ -32,7 +32,7 @@ content:
         color: '#666'
         brightness: 0.7
         media: 1.jpg
-        fit: cover
+        fit: contain
       link: 
         text: "所有成员"
         url: /people/
@@ -44,22 +44,10 @@ content:
         color: '#666'
         brightness: 0.7
         media: 2.jpg
-        fit: cover
+        fit: contain
       link: 
         text: "所有成员"
         url: /people/
-
-
-
-
-
-
-
-
-
-
-
-
 
 ---
 
