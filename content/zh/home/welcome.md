@@ -4,7 +4,7 @@ widget_id: "10"
 headless: true
 weight: 10
 title: 
-hero_media: welcome.jpg, backgroud.jpg
+hero_media: [welcome.jpg, backgroud.jpg]
 design:
   columns: "1"
   css_style: null
