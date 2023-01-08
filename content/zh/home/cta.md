@@ -3,7 +3,7 @@ title: 导师介绍
 subtitle:
 widget: slider
 headless: true
-weight: 20
+weight: 60
 design:
   slide_height: ''
   is_fullscreen: false
