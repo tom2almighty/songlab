@@ -1,7 +1,7 @@
 ---
 widget: experience
 headless: false
-weight: 10
+weight: 50
 title: 主持项目
 date_format: 2006-01-02
 
