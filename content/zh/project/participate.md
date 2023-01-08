@@ -1,6 +1,5 @@
 ---
 widget: experience
-widget_id: "1"
 headless: false
 weight: 20
 title: 参与项目
