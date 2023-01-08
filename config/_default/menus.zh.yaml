@@ -19,6 +19,3 @@ main:
   - name: 联系
     url: contact
     weight: 60
-  - name: test
-    url: test
-    weight: 70
