@@ -31,7 +31,7 @@ experience:
   - title: "中小学生视觉表象产生能力的发展趋势"
     company: "全国教育科学规划（教育部）项目"
     date_start: '2010-07-01'
-    date_end: '2013-02-2'
+    date_end: '2013-02-22'
 
 
 ---
