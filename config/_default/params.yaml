@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: ocean
-  theme_night: ocean
+  theme_night: apogee
   font: native
   font_size: L
 
