@@ -1,5 +1,5 @@
 ---
-widget: 'about.avatar'
+widget: about.avatar
 headless: true  
 weight: 20 
 author: '宋晓蕾'
