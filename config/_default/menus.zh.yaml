@@ -5,7 +5,7 @@
 
 main:
   - name: 首页
-    url: /zh/
+    url: /
     weight: 20
   - name: 成员
     url: people
