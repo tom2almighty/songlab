@@ -11,7 +11,7 @@ gallery_item:
    caption: caption2
 ---
 {{< gallery album="/" >}}
-
+<body>
 <script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@latest/dist/js/splide.min.js"></script>
 
 <div id="image-slider" class="splide">
@@ -37,6 +37,6 @@ gallery_item:
 
 
 
-
+</body>
 
 {{% cta cta_link="./people/" cta_text="团队成员" %}}
