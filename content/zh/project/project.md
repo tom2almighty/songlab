@@ -1,7 +1,9 @@
 ---
 widget: portfolio
-title: 科研项目
+title: 长期在轨飞行对航天员空间认知能力的影响研究
 weight: 10
+tag:
+ - participate
 subtitle: ''
 content:
   filters:
@@ -25,3 +27,8 @@ design:
   flip_alt_rows: false
   
 ---
+- :notebook: 浙江大学
+
+- :stopwatch: 2020-01-01-2023-12-31
+
+- :boy: 参与
