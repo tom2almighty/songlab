@@ -5,7 +5,7 @@
 
 main:
   - name: Home
-    url: home
+    url: /
     weight: 20
   - name: Members
     url: people
