@@ -1,9 +1,9 @@
 ---
-widget: hero
+widget: blank
 headless: true
 weight: 10
 title: 智能人机交互实验室
-hero_media: background.jpg
+#hero_media: background.jpg
 banner:
   image: background.jpg
   caption: ""
