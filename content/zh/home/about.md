@@ -1,6 +1,6 @@
 ---
 widget: about.avatar
-headless: true  
+headless: false  
 weight: 20 
 author: 曹陈
 ---
