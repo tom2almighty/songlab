@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: 智能人机交互实验室
-date: 
+date: 2022-12-12
 type: landing
 
 sections:
