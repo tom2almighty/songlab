@@ -8,7 +8,7 @@ content:
     folders:
       - project
     kinds:
-      - page
+      - section
   sort_by: 'Date'
   sort_ascending: false
   filter_button:
