@@ -14,7 +14,7 @@ main:
     url: publication
     weight: 40
   - name: 项目
-    url: project
+    url: portfolio
     weight: 50   
   - name: 联系
     url: contact
