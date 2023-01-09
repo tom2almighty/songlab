@@ -16,7 +16,7 @@ subtitle: ''
 content:
   page_type: project
   folders:
-    - project-file
+    - projectfile
   filter_default: 0
 
   filter_button:
