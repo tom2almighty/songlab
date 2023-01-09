@@ -15,3 +15,4 @@ gallery_item:
 ---
 {{< gallery album="/" >}}
 
+{{% cta cta_link="./people/" cta_text="团队成员" %}}
