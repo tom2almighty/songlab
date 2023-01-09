@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: ocean
-  theme_night: apogee
+  theme_day: strawberry
+  theme_night: mr_robot
   font: native
   font_size: L
 
