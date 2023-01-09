@@ -20,8 +20,8 @@ weight: 30
 <div id="primary-slider" class="splide">
   <div class="splide__track">
       <ul class="splide__list">
-          <li class="splide__slide"> <img src="1.jpg" /></li>
-          <li class="splide__slide"> <img src="2.jpg" /></li>            
+          <li class="splide__slide"> <img src="assets/media/1.jpg" /></li>
+          <li class="splide__slide"> <img src="assets/media/2.jpg" /></li>            
       </ul>
   </div>
 </div>
