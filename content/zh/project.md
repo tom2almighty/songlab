@@ -14,9 +14,9 @@ sections:
         folders:
           - project
         # Only show content with these tags
-        tags: []
+        #tags: []
         # Exclude content with these tags
-        exclude_tags: []
+        #exclude_tags: []
         # Which Hugo page kinds to show (https://gohugo.io/templates/section-templates/#page-kinds)
         kinds:
           - page
