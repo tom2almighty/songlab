@@ -23,15 +23,11 @@ content:
       - page
 #      - section
 
-  # Field to sort by, such as Date or Title
+
   sort_by: 'Date'
   sort_ascending: false
 
-  # Filter toolbar (optional).
-  # Add or remove as many filters (`filter_button` instances) as you like.
-  # To show all items, set `tag` to "*".
-  # To filter by a specific tag, set `tag` to an existing tag name.
-  # To remove toolbar, delete/comment all instances of `filter_button` below.
+
   filter_button:
     - name: 所有项目
       tag: '*'
@@ -50,5 +46,4 @@ design:
   view: compact
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
-
 ---
