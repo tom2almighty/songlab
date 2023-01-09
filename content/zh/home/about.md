@@ -1,9 +1,9 @@
 ---
-widget: about
-headless: true  # This file represents a page section.
+widget: 'about.avatar'
+headless: false  # This file represents a page section.
 
 # Put Your Section Options Here (title, background etc.)
-weight: 20 # Position of section on page
+weight: 30 # Position of section on page
 
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
