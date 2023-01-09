@@ -2,15 +2,18 @@
 widget: blank
 headless: true
 weight: 30
-gallery_item:
- - album: "/"
-   image: 1.jpg
-   caption: caption1
- - album: "/"
-   image: 2.jpg
-   caption: caption2
+#gallery_item:
+# - album: "/"
+#   image: 1.jpg
+#   caption: caption1
+# - album: "/"
+#   image: 2.jpg
+#   caption: caption2
+   
+   
+# {{< gallery album="/" >}}
 ---
-{{< gallery album="/" >}}
+
 <body>
 <script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@latest/dist/js/splide.min.js"></script>
 
