@@ -11,7 +11,6 @@ design:
     image:
     filename: background.jpg
     filters:
-      brightness: 0.6
     size: cover
     position: center
     parallax: false
