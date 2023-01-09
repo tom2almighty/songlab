@@ -33,7 +33,7 @@ sections:
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the button toolbar, delete the entire `buttons` block.
       buttons:
-        - name: All
+        - name: 所有项目
           tag: '*'
         - name: 主持项目
           tag: host
