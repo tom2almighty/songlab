@@ -1,5 +1,5 @@
 ---
 type: widget_page
 
-headless: true  # This file represents a page section.
+headless: false  # This file represents a page section.
 ---
