@@ -36,9 +36,9 @@ sections:
         - name: 所有项目
           tag: '*'
         - name: 主持项目
-          tag: host
+          tag: 'host'
         - name: 参与项目
-          tag: participate
+          tag: 'participate'
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
