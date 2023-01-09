@@ -1,6 +1,9 @@
 ---
+
+title: 导师介绍
+
 widget: 'about.avatar'
-headless: false  # This file represents a page section.
+headless: true  # This file represents a page section.
 
 # Put Your Section Options Here (title, background etc.)
 weight: 30 # Position of section on page
