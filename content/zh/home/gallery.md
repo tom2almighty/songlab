@@ -14,32 +14,55 @@ weight: 30
 # {{< gallery album="/" >}}
 ---
 
-<body>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide@latest/dist/css/splide.min.css"> 
 <script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@latest/dist/js/splide.min.js"></script>
 
-<div id="image-slider" class="splide">
+<div id="primary-slider" class="splide">
   <div class="splide__track">
-		<ul class="splide__list">
-			<li class="splide__slide">
-				<img src="1.jpg">
-				<div>
-					Description 01
-				</div>
-			</li>
-
-
-			<li class="splide__slide">
-				<img src="2.jpg">
-				<div>
-					Description 02
-				</div>
-			</li>
-		</ul>
+      <ul class="splide__list">
+          <li class="splide__slide"> <img src="1.jpg" /></li>
+          <li class="splide__slide"> <img src="2.jpg" /></li>            
+      </ul>
   </div>
 </div>
 
+<div id="secondary-slider" class="splide">
+  <div class="splide__track">
+      <ul class="splide__list">         
+          <li class="splide__slide">        
+            <img src="1_thumbnail.jpg" />            
+          </li>
+          <li class="splide__slide">        
+            <img src="2_thumbnail.jpg" />            
+          </li>
+      </ul>
+  </div>
+</div>
 
+<script>
+	var secondarySlider = new Splide('#secondary-slider', {
+		rewind      : true,
+		fixedWidth  : 64,
+		fixedHeight : 64,
+		isNavigation: true,
+		gap         : 3,
+		focus       : 'center',
+		pagination  : false,
+		cover       : false,
+	  	arrows     : false,
+	} ).mount();
 
-</body>
+	// Create the main slider.
+	var primarySlider = new Splide( '#primary-slider', {
+		type       : 'fade',
+		heightRatio: 1,
+		pagination : false,
+		arrows     : false,
+		cover      : true,
+	} );
+
+	// Set the thumbnails slider as a sync target and then call mount.
+	primarySlider.sync( secondarySlider ).mount();
+</script>
 
 {{% cta cta_link="./people/" cta_text="团队成员" %}}
