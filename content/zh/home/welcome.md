@@ -3,10 +3,7 @@ widget: hero
 headless: true
 weight: 10
 title: 智能人机交互实验室
-hero_media: 
-  - 1.jpg
-    2.jpg
-    background.jpg
+hero_media: background.jpg
     
 design:
   columns: "1"
