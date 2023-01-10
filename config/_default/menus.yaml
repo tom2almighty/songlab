@@ -14,7 +14,7 @@ main:
     url: publication
     weight: 40
   - name: Projects
-    url: project
+    url: portfolio
     weight: 50  
   - name: Contact
     url: contact

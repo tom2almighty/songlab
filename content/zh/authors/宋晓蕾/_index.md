@@ -22,6 +22,12 @@ education:
     - course: 理学博士
       institution: 陕西师范大学
       year: 2008
+    - course: 理学硕士
+      institution: 陕西师范大学
+      year: 2004
+    - course: 经济学学士
+      institution: 西安统计学院
+      year: 1998
 email: "songxiaolei@snnu.edu.cn"
 superuser: true
 user_groups:
