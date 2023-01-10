@@ -14,9 +14,11 @@ weight: 30
 # {{< gallery album="/" >}}
 ---
 <html>
+<head>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide@latest/dist/css/splide.min.css"> 
 <script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@latest/dist/js/splide.min.js"></script>
-
+</head>
+<body>
 <section id="image-carousel" class="splide" aria-label="Beautiful Images">
   <div class="splide__track">
 		<ul class="splide__list">
@@ -32,7 +34,7 @@ weight: 30
 		</ul>
   </div>
 </section>
-
+</body>
 
 <script>
   document.addEventListener( 'DOMContentLoaded', function () {
