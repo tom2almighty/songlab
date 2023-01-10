@@ -20,37 +20,14 @@ weight: 30
 <div id="primary-slider" class="splide">
   <div class="splide__track">
       <ul class="splide__list">
-          <li class="splide__slide"> <img src="assets/media/1.jpg" /></li>
-          <li class="splide__slide"> <img src="assets/media/2.jpg" /></li>            
+          <li class="splide__slide"> <img src="https://images.unsplash.com/photo-1671243396019-a47f031d20e9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80" /></li>
+          <li class="splide__slide"> <img src="https://images.unsplash.com/photo-1670992367974-d11122d8e8c8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80" /></li>            
       </ul>
   </div>
 </div>
 
-<div id="secondary-slider" class="splide">
-  <div class="splide__track">
-      <ul class="splide__list">         
-          <li class="splide__slide">        
-            <img src="1_thumbnail.jpg" />            
-          </li>
-          <li class="splide__slide">        
-            <img src="2_thumbnail.jpg" />            
-          </li>
-      </ul>
-  </div>
-</div>
 
 <script>
-	var secondarySlider = new Splide('#secondary-slider', {
-		rewind      : true,
-		fixedWidth  : 64,
-		fixedHeight : 64,
-		isNavigation: true,
-		gap         : 3,
-		focus       : 'center',
-		pagination  : false,
-		cover       : false,
-	  	arrows     : false,
-	} ).mount();
 
 	// Create the main slider.
 	var primarySlider = new Splide( '#primary-slider', {
