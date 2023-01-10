@@ -3,12 +3,12 @@ widget: hero
 headless: true
 weight: 10
 title: 智能人机交互实验室
-# hero_media: background.jpg
+hero_media: 'background.jpg'
 design:
   columns: "1"
   background:
     image:
-      filename: background.jpg
+      filename: 'background.jpg'
       filters:
         brightness: 0.6
       size: cover
