@@ -7,12 +7,13 @@ en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   contentDir: content/en
+  title: Intelligent Interaction and Virtual Reality Laboratory
 
 # Uncomment the lines below to configure your website in a second language.
 zh:
   languageCode: zh-Hans
   contentDir: content/zh
-  title: 智能人机交互实验室
+  title: 智能交互与虚拟现实实验室
 #  params:
 #    description: Site description in Chinese...
 #  menu:
