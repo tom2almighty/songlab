@@ -18,8 +18,8 @@ organizations:
   - name: Shaanxi Normal University
     url: "https://snnu.edu.cn"
 education:
-  courses: 'Doctor of Science'
-    - course: 
+  courses: 
+    - course: 'Doctor of Science'
       institution: 'Shaanxi Normal University'
       year: 2008
     - course: 'Master of Science'
