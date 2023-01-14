@@ -15,7 +15,10 @@ main:
     weight: 40
   - name: 项目
     url: portfolio
-    weight: 50   
+    weight: 50
+  - name: 设备
+    url: equipment
+    weight: 60   
   - name: 联系
     url: contact
-    weight: 60
+    weight: 70
