@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: 智能交互与虚拟现实实验室
+title: '智能交互与虚拟现实实验室'
 hero_media: '1.jpg'
 design:
   columns: "1"
