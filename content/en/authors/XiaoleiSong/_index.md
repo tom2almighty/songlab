@@ -26,7 +26,7 @@ education:
       institution: 'Shaanxi Normal University'
       year: 2004
     - course: 'Bachelor of Economics'
-      institution: 'Xi'an University of Finance and Economics'
+      institution: "Xi'an University of Finance and Economics"
       year: 1998
 email: "songxiaolei@snnu.edu.cn"
 superuser: true
