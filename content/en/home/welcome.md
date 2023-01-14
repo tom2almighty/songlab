@@ -5,7 +5,7 @@ weight: 10
 title: 'Intelligent Interaction and Virtual Reality Laboratory'
 hero_media: '1.jpg'
 design:
-  columns: "1"
+  columns: "2"
 # {{% cta cta_link="./people/" cta_text="团队成员" %}}  
 ---
 <br>

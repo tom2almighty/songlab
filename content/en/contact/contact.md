@@ -52,4 +52,6 @@ design:
   columns: '1'
 ---
 
-If you have any questions, please leave your information, or contact us through the following ways.
+
+
+<p align="left">If you have any questions, please leave your information, or contact us through the following ways.</p>
