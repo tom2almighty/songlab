@@ -1,7 +1,7 @@
 ---
 title: 'Pupillary dilation elicited by attending to two disks with different luminance'
 authors:
-  - 胡晓斐
+  - Xiaofei Hu
   - Rumi Hisakata
   - Hirohiko Kaneko
 date: '2021-01-01T00:00:00Z'
@@ -26,7 +26,7 @@ abstract: Pupils become smaller when people attend to a bright disk as compared 
 summary: 
 
 tags:
-  - 瞳孔反应
+  - pupillary response
 featured: false
 
 # links:

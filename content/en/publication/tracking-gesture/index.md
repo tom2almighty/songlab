@@ -1,8 +1,8 @@
 ---
-title: "追踪手势对视空间学习的增强作用"
+title: "The enhancing effect of tracking gesture on visuo-spatial learning"
 authors:
-  - 贾筱倩
-  - 宋晓蕾
+  - Xiaoqian Jia
+  - Xiaolei Song
 
 date: '2022-07-21T00:00:00Z'
 doi: '10.3724/SP.J.1041.2022.01009'
@@ -17,16 +17,16 @@ publishDate: '2019-12-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: "心理学报"
+publication: "Acta Psychologica Sinica"
 publication_short: ''
 
-abstract: 本研究采用地图学习任务范式考察了追踪手势对视空间学习的影响和增强, 并试图从追踪手势的角度寻找能够有效促进操作者视空间学习的方法。实验1探究了产生追踪手势对视空间学习的增强作用; 实验2采用遮挡范式考察了产生追踪手势增强视空间学习的作用机制, 发现产生追踪手势所提供的视觉信息和感觉运动信息共同作用于视空间学习过程; 实验3从具身认知的视角探索了基于追踪手势的视空间学习增强方式, 发现以自我为参照产生追踪手势可以更好地增强个体的视空间学习。本研究结果很好地支持并补充了手势的具身认知理论。
+abstract: "Visuo-spatial ability is the main component of spatial cognitive ability,which forms the spatial model of external world in human brain and think in mind through the transformation of model paradigm.However,when there are few landmarks or reference objects in an unfamiliar environment,individuals with low visuo-spatial ability are often prone to get lost.So,for these individuals with low visuo-spatial ability,how to solve this problem is worth exploring.Previous researches have shown that gestures help individuals to learn.However,most studies focused on improving the ability of route learning byobserving tracking gestures,while there were few studies exploring the effect of generating tracking gestures,and there was no research exploring the role of generating tracking gestures in route learning on 3D maps.The route learning task was adopted as the main paradigm in the present study to explore the enhancing effect of generating tracking gestures in the route learning process of 3D map.A total of 53 participants were recruited in Experiment 1 to explore the improving effect of generating tracking gestures on visuo-spatial learning of 2D map and 3D map.In Experiment 2,another 49 participants were recruited to investigate the enhancing mechanism of generating tracking gestures in route learning using occlusion paradigm.Experiment 3 recruited another 53 participants to explore the methods of enhancement of visuo-spatial learning based on tracking gesture.The results of Experiment 1 showed that generating tracking gestures significantly improve the performance of visuo-spatial learning in both 2D map and 3D map,and the enhancing effect of generating tracking gesture on route learning of 3D map was higher than that of 2D map.Experiment 2 revealed that visuo-spatial learning was enhanced by the visual information and sensorimotor information provided by tracking gestures.The results of Experiment 3 showed that the enhancing effect of generating self-referential tracking gestures was significantly higher than that of observing others'tracking gestures,and it also proved that enhancing physical presence can improve the effect of visuo-spatial learning.In summary,these results suggest that(1)generating tracking gestures can enhance visuo-spatial learning;(2)visual information and sensorimotor information provided by tracking gestures play important roles in visuo-spatial learning,which confirms image maintenance theory and further complements the embodied embodied-external cognitive perspective of gesture;(3)increasing physical presence can enhancevisuo-spatial learning,which validates the embodied-external cognitive perspective of gesture;(4)compared with observing other's tracking gestures,generating self-referential tracking gestures has a better performance,that is,generating self-referential tracking gestures is a more effective way to improve visuo-spatial learning."
 
 # Summary. An optional shortened abstract.
 summary: 
 
 tags:
-  - 空间认知
+  - spatial cognition
 featured: false
 
 #links:

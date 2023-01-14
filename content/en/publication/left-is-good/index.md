@@ -1,9 +1,9 @@
 ---
 title: 'Left is “good”: Observed action affects the association between horizontal space and affective valence'
 authors:
-  - 宋晓蕾
-  - 易凤
-  - 张俊婷
+  - Xiaolei Song
+  - Feng Yi
+  - Junting Zhang
   - Robert W. Proctor
 date: '2019-12-01T00:00:00Z'
 doi: '10.1016/j.cognition.2019.104030'
@@ -27,7 +27,7 @@ abstract: According to the body-specificity hypothesis, people will associate po
 summary: 
 
 tags:
-  - 联合行动
+  - joint action
 featured: false
 
 # links:

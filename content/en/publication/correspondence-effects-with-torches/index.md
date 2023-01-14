@@ -1,7 +1,7 @@
 ---
 title: 'Correspondence Effects with Torches: Grasping Affordance or Visual Feature Asymmetry?'
 authors:
-  - 宋晓蕾
+  - Xiaolei Song
   - Chen Jing
   - Robert W. Proctor
 date: '2014-03-25T00:00:00Z'
@@ -26,8 +26,7 @@ abstract: "Three experiments were conducted to determine whether an object-based
 summary: 
 
 tags:
-  - 功能可见性
-  - 刺激-反应相容性
+  - Correspondence resoponse
 featured: false
 
 # links:

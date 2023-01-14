@@ -1,10 +1,10 @@
 ---
 title: "The Underlying neural mechanisms of interpersonal situations on collaborative ability: A hyperscanning study using functional near-infrared spectroscopy"
 authors:
-  - 杨倩
-  - 宋晓蕾
-  - 董梅梅
-  - 李佳琪
+  - Qian Yang
+  - Xiaolei Song
+  - Meimei Dong
+  - Jiaqi Li
   - Robert W. Proctor
 
 date: '2021-08-11T00:00:00Z'
@@ -29,7 +29,7 @@ abstract: The collaborative ability to coordinate an individual with others is c
 summary: 
 
 tags:
-  - 联合行动
+  - joint action
 featured: false
 
 #links:

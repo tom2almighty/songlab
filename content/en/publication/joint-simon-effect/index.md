@@ -1,11 +1,10 @@
 ---
-title: 'Effects of spatial frequency and attention on pupillary response'
+title: 'Joint Simon effect:Current research,influencing factors and theories'
 authors:
-  - Xiaofei Hu
-  - Rumi Hisakata
-  - Hirohiko Kaneko
-date: '2019-09-16T00:00:00Z'
-doi: 'doi.org/10.1364/JOSAA.36.001699'
+  - Sheng Xu
+  - Xiaolei Song
+date: '2016T00:00:00Z'
+doi: '10.3724/SP.J.1042.2016.00367'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2019-12-01T00:00:00Z'
@@ -17,16 +16,16 @@ publishDate: '2019-12-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: 'Journal of the Optical Society of America A'
+publication: 'Advances in Psychological Science'
 publication_short: ''
 
-abstract: Research has shown that the pupil responds differently depending on the spatial frequency of the gazing stimulus. In this study, we examined the effects of spatial- and object-based attention on pupillary response as a function of spatial frequency using grating stimuli and filtered natural images by manipulating the participants’ attentional state. Furthermore, we aimed to obtain the pupillary response to spatial frequency accurately by reducing the contamination of unintended spatial frequency components in the stimulus by using gratings with a Gabor envelope. We revealed that all stimuli could elicit large pupil constriction for an intermediate range (2–8 c/d) of spatial frequency and that both spatial- and object-based attention modulate the pupillary response function to spatial frequency. These facts may enhance Human Computer Interaction design to use people’s attentional state.
+abstract: "The Joint Simon Effect(JSE)is a spatial stimulus-response compatibility effect that appears when two participants complete complementarycomponents of a standard Simon task.The effect is considered as a valid index of the degree of self-other integration.Two main factors can influence theeffect:social and nonsocial factors.Researchers explain JSE through the social facilitation theory,the co-representation account,the spatial response coding theory and the referential coding account.Future work on JSE should further explore the factors that influence it and the underlying brain mechanism,and further investigate its theoretical underpinnings."
 
 # Summary. An optional shortened abstract.
 summary: 
 
 tags:
-  - pupillary response
+  - joint simon effect
 featured: false
 
 # links:

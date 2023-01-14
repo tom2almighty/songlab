@@ -1,7 +1,7 @@
 ---
 title: 'Role of hand dominance in mapping preferences for emotional-valence words to keypress responses'
 authors:
-  - 宋晓蕾
+  - Xiaolei Song
   - Jing Chen
   - Robert W. Proctor
 date: '2017-10-17T00:00:00Z'
@@ -26,7 +26,7 @@ abstract: When a crossed-hands placement (right hand presses left key; left hand
 summary: 
 
 tags:
-  - 相容性
+  - stimulus-response compatibility
 featured: false
 
 # links:

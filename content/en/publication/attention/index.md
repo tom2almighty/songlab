@@ -1,7 +1,7 @@
 ---
 title: 'Effects of stimulus size, eccentricity, luminance, and attention on pupillary light response examined by concentric stimulus'
 authors:
-  - 胡晓斐
+  - Xiaofei Hu
   - Rumi Hisakata
   - Hirohiko Kanekoa
 date: '2020-03-31T00:00:00Z'
@@ -26,7 +26,7 @@ abstract: Previous studies show that the amplitude of pupillary light response (
 summary: 
 
 tags:
-  - 瞳孔反应
+  - pupillary response
 featured: false
 
 # links:

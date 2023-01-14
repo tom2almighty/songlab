@@ -1,10 +1,10 @@
 ---
 title: 'The Underlying Mechanisms of Psychological Resilience on Emotional Experience: Attention-Bias or Emotion Disengagement'
 authors:
-  - 易凤
-  - 李小芳
-  - 宋晓蕾
-  - 朱蕾
+  - Feng Yi
+  - Xiaofang Li
+  - Xiaolei Song
+  - Lei Zhu
 date: '2020-09-17T00:00:00Z'
 doi: '10.3389/fpsyg.2020.01993'
 
@@ -27,7 +27,7 @@ abstract: Psychological resilience is consisted of social resources and protecti
 summary: 
 
 tags:
-  - 心理韧性
+  - psychological resilience
 featured: false
 
 # links:

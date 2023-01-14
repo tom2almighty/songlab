@@ -1,11 +1,10 @@
 ---
-title: 'Effects of spatial frequency and attention on pupillary response'
+title: 'A Research on the Functional Mechanism of the Simon Effect and ITS Reversal'
 authors:
-  - Xiaofei Hu
-  - Rumi Hisakata
-  - Hirohiko Kaneko
-date: '2019-09-16T00:00:00Z'
-doi: 'doi.org/10.1364/JOSAA.36.001699'
+  - Xiaolei Song
+  - Xuqun You
+date: '2006-02-03T00:00:00Z'
+doi: '10.16719/j.cnki.1671-6981.2006.02.013'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2019-12-01T00:00:00Z'
@@ -17,16 +16,16 @@ publishDate: '2019-12-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: 'Journal of the Optical Society of America A'
+publication: 'Journal of Psychological Science'
 publication_short: ''
 
-abstract: Research has shown that the pupil responds differently depending on the spatial frequency of the gazing stimulus. In this study, we examined the effects of spatial- and object-based attention on pupillary response as a function of spatial frequency using grating stimuli and filtered natural images by manipulating the participants’ attentional state. Furthermore, we aimed to obtain the pupillary response to spatial frequency accurately by reducing the contamination of unintended spatial frequency components in the stimulus by using gratings with a Gabor envelope. We revealed that all stimuli could elicit large pupil constriction for an intermediate range (2–8 c/d) of spatial frequency and that both spatial- and object-based attention modulate the pupillary response function to spatial frequency. These facts may enhance Human Computer Interaction design to use people’s attentional state.
+abstract: "Abstract:This research adopted the task interference experimental paradigm in exploring the relationship between stimulus spatial location and response result in order to infer the functional mechanism of the Simon effect and its reversal.The results indicate that the reversal of the Simon effect occured when colored stimuli were centered and tones occured in the left or right ear.It is suggested that,displaycontrol arrangement correspondence was the primary cause of the reversal of the Simon effect with logical recoding playing only a secondary role."
 
 # Summary. An optional shortened abstract.
 summary: 
 
 tags:
-  - pupillary response
+  - joint action
 featured: false
 
 # links:

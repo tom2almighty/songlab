@@ -1,5 +1,5 @@
 ---
-title: 'Left is “good”: Observed action affects the association between horizontal space and affective valence'
+title: '不同环境中空间定向能力的研究与应用'
 authors:
   - 宋晓蕾
   - 葛贤亮
