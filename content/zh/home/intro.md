@@ -21,5 +21,5 @@ content:
   sort_ascending: false
 design:
   columns: "1"
-  view: compact
+  view: showcase
 ---
