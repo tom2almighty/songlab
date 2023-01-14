@@ -16,7 +16,7 @@ main:
   - name: Projects
     url: portfolio
     weight: 50
-  - name: Equipment
+  - name: Equipments
     url: equipment
     weight: 60  
   - name: Contact
