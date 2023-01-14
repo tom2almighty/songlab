@@ -10,7 +10,7 @@ main:
   - name: 成员
     url: people
     weight: 30
-  - name: 论文
+  - name: 研究
     url: publication
     weight: 40
   - name: 项目
