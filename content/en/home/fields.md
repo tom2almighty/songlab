@@ -2,7 +2,7 @@
 widget: pages
 headless: true
 weight: 20
-title: 研究方向
+title: Research Fields
 content:
   filters:
     folders:

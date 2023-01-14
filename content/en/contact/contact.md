@@ -25,9 +25,9 @@ content:
     country: 中国
     country_code: CN
   coordinates:
-    latitude: '34.2029'
-    longitude: '108.9474'
-  directions: 田家炳楼614
+    latitude: '34.20523'
+    longitude: '108.94280'
+  directions: 教学九楼 9302
   office_hours:
     - 09:00 - 22:00
   #contact_links:

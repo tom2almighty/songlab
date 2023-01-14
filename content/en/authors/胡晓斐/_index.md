@@ -25,7 +25,7 @@ education:
       year: 2021
 email: ""
 user_groups:
-  - 导师
+  - 研究人员
 ---
 
 胡晓斐，东京工业大学博士，讲师。
