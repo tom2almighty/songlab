@@ -18,15 +18,15 @@ organizations:
   - name: Shaanxi Normal University
     url: "https://snnu.edu.cn"
 education:
-  courses: Doctor of Science
+  courses: 'Doctor of Science'
     - course: 
-      institution: Shaanxi Normal University
+      institution: 'Shaanxi Normal University'
       year: 2008
-    - course: Master of Science
-      institution: Shaanxi Normal University
+    - course: 'Master of Science'
+      institution: 'Shaanxi Normal University'
       year: 2004
-    - course: Bachelor of Economics
-      institution: Xi'an University of Finance and Economics
+    - course: 'Bachelor of Economics'
+      institution: 'Xi'an University of Finance and Economics'
       year: 1998
 email: "songxiaolei@snnu.edu.cn"
 superuser: true
