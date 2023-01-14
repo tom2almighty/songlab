@@ -1,6 +1,6 @@
 ---
 title: 董梅梅
-role: 应用心理学博士在读
+role: Doctoral Student
 
 avatar_filename: avatar.jpg
 
@@ -27,7 +27,7 @@ education:
 email: "domeimei@163.com"
 superuser: false
 user_groups:
-  - 博士
+  - Doctoral Student
 highlight_name: false
 ---
 ## 详细介绍
