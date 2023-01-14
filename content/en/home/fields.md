@@ -6,7 +6,7 @@ title: Research Fields
 content:
   filters:
     folders:
-      - direction
+      - fields
     tag: ''
     category: ''
     publication_type: ''
