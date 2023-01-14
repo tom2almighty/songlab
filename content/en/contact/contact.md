@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: 联系方式
+title: Contact us
 subtitle:
 
 content:
@@ -18,16 +18,16 @@ content:
   email: songxiaolei@snnu.edu.cn
   phone: 029-85303236
   address:
-    street: 长安南路199号
-    city: 西安市
-    region: 陕西省
+    street: No. 199 Chang'an South Road
+    city: Xi'an
+    region: Shaanxi
     postcode: '710062'
-    country: 中国
+    country: China
     country_code: CN
   coordinates:
     latitude: '34.20523'
     longitude: '108.94280'
-  directions: 教学九楼 9302
+  directions: 9302, 9th Teaching Building
   office_hours:
     - 09:00 - 22:00
   #contact_links:
@@ -52,4 +52,4 @@ design:
   columns: '1'
 ---
 
-如果您有任何问题，欢迎留下您的信息，或通过以下方式联系我们。
+If you have any questions, please leave your information, or contact us through the following ways.

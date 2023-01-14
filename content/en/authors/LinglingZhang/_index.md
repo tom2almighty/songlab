@@ -1,34 +1,33 @@
 ---
-title: 张玲玲
-role: 应用心理硕士在读
+title: Lingling Zhang
+role: Graduate Student
 
 avatar_filename: avatar.jpg
 
 bio: 
 authors:
-  - 张玲玲
+  - Graduate Student
 interests:
-  - 空间认知与导航
+  - Spatial Cognition and Navigation
 
 social:
   - icon: envelope
     icon_pack: fas
     link: mailto:zhanglingling0604@163.com
 organizations:
-  - name: 陕西师范大学
+  - name: 'Shaanxi Normal University'
     url: "https://snnu.edu.cn"
 
 education:
   courses:
-    - course: 理学硕士
-      institution: 陕西师范大学
+    - course: 'Master of Science'
+      institution: 'Shaanxi Normal University'
       year: 2023
-## 邮箱
+
 email: zhanglingling0604@163.com
 superuser: false
 user_groups:
-  - 硕士
+  - Graduate Student
 highlight_name: false
 ---
-## 详细介绍
-张玲玲，应用心理硕士在读。
+Lingling Zhang is major in applied psychology.

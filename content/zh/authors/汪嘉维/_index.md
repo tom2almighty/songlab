@@ -3,7 +3,8 @@ title: 汪嘉维
 role: 应用心理学硕士在读
 
 avatar_filename: avatar.jpg
-
+authors:
+  - 汪嘉维
 bio: 目前在学习研究虚拟现实中空间感知/距离感知的问题
 interests:
   - 虚拟现实空间感知

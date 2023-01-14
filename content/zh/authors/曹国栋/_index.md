@@ -3,7 +3,8 @@ title: 曹国栋
 role: 应用心理硕士在读
 
 avatar_filename: avatar.jpg
-
+authors:
+  - 曹国栋
 bio: 
 ## 兴趣爱好
 interests:

@@ -10,7 +10,7 @@ headless: false
 # Order that this section appears on the page.
 weight: 20
 
-title: '科研项目'
+title: 'Projects'
 subtitle: ''
 
 content:
@@ -20,11 +20,11 @@ content:
   filter_default: 0
 
   filter_button:
-    - name: 所有项目
+    - name: All
       tag: '*'
-    - name: 主持项目
+    - name: Principal Investigator
       tag: host
-    - name: 参与项目
+    - name: Participate
       tag: participate
 
 design:
