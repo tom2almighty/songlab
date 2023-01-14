@@ -31,7 +31,7 @@ education:
 email: "songxiaolei@snnu.edu.cn"
 superuser: true
 user_groups:
-  - 导师
+  - 负责人
 highlight_name: false
 ---
 
