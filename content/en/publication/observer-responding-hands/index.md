@@ -1,5 +1,5 @@
 ---
-title: 'The influence of different status of the observer's responding hands on observational learningin the joint task'
+title: "The influence of different status of the observer's responding hands on observational learningin the joint task"
 authors:
   - Xiaolei Song
   - Yangyang Li
