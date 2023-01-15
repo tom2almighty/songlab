@@ -22,7 +22,14 @@ design:
 <html>
 <head>
 <style>
-div{margin:24px;border:10;padding:10;}
+div{margin:24px;border:10;padding:10;};
+.container1{
+background-image:url('fnirs.jpg');
+background-repeat:no-repeat;
+background-position:left top;
+margin-right:200px;
+
+}
     .photo{
         float:left;
         width:100px;
