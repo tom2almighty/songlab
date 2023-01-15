@@ -73,7 +73,7 @@ design:
 
 <ul class="list-unstyled">
   <li class="media">
-    <img class="mr-3" src="fnirs.jpg" alt="Generic placeholder image">
+    <img class="mr-3" src="fnirs.jpg" width="100" height="200" alt="Generic placeholder image">
     <div class="media-body">
       <h5 class="mt-0 mb-1">功能性近红外脑成像系统</h5>
       fNIRS（功能性近红外光谱）是一种非侵入性神经成像技术，通过记录含氧/脱氧血液量的变化来测量大脑反应。 它基于光散射原理工作——该设备向头皮发射高强度近红外光束，并检测大脑吸收的光量变化。 然后应用数学算法来处理收集到的数据，以计算含氧/脱氧血红蛋白浓度的变化。这些变化与大脑功能的变化有关。
