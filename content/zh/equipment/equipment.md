@@ -22,6 +22,7 @@ design:
 <html>
 <head>
 <style>
+div{margin:5px;border:0;padding:0;}
     .photo{
         float:left;
         width:300px;
