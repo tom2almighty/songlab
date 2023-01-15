@@ -29,21 +29,21 @@ design:
 
 
 <div class="card-deck">
-  <div class="card">
+  <div class="card" style="width: 18rem; height: 20rem;">
     <img class="card-img-top" src="fnirs.jpg" alt="Card image cap">
     <div class="card-body">
       <h5 class="card-title">功能性近红外脑成像系统</h5>
       <p class="card-text">fNIRS（功能性近红外光谱）是一种非侵入性神经成像技术，通过记录含氧/脱氧血液量的变化来测量大脑反应。 它基于光散射原理工作——该设备向头皮发射高强度近红外光束，并检测大脑吸收的光量变化。 然后应用数学算法来处理收集到的数据，以计算含氧/脱氧血红蛋白浓度的变化。这些变化与大脑功能的变化有关。</p>
     </div>
   </div>
-  <div class="card">
+  <div class="card" style="width: 18rem; height: 20rem;">
     <img class="card-img-top" src="vive.jpg" alt="Card image cap">
     <div class="card-body">
       <h5 class="card-title">HTC Vive Pro</h5>
       <p class="card-text">由HTC公司发布的一款虚拟现实技术产品。这款产品内置耳机，且仅需要使用一根线缆连接一台高性能的PC电脑即可呈现拥有高分辨率的画面。</p>
     </div>
   </div>
-  <div class="card">
+  <div class="card" style="width: 18rem; height: 20rem;">
     <img class="card-img-top" src="tms.jpg" alt="Card image cap">
     <div class="card-body">
       <h5 class="card-title">TMS经颅磁刺激仪</h5>
@@ -54,14 +54,14 @@ design:
 
 
 <div class="card-deck">
-  <div class="card">
+  <div class="card" style="width: 18rem; height: 20rem;">
     <img class="card-img-top" src="eyelink.jpg" alt="Card image cap">
     <div class="card-body">
       <h5 class="card-title">Eyelink Portable Duo 眼动仪</h5>
       <p class="card-text">Eyelink Portable Duo 眼动仪提供高速和低噪的眼动追踪算法支持头部稳定和遥测两种数据采集模式，采用便携的眼动追踪解决方案，适用多种研究场景，提供科研所需的高可靠和高精度数据；头部稳定模式支持高达2000 Hz的双眼追踪可用于实验室或非实验室研究，遥测模式支持1000 Hz的双眼追踪。</p>
     </div>
   </div>
-  <div class="card">
+  <div class="card" style="width: 18rem; height: 20rem;">
     <img class="card-img-top" src="mvn.jpg" alt="Card image cap">
     <div class="card-body">
       <h5 class="card-title">MVN Awinda三维运动捕捉系统</h5>
