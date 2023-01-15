@@ -43,6 +43,7 @@ margin-bottom: 50px;
       fNIRS（功能性近红外光谱）是一种非侵入性神经成像技术，通过记录含氧/脱氧血液量的变化来测量大脑反应。 它基于光散射原理工作——该设备向头皮发射高强度近红外光束，并检测大脑吸收的光量变化。 然后应用数学算法来处理收集到的数据，以计算含氧/脱氧血红蛋白浓度的变化。这些变化与大脑功能的变化有关。
     </div>
   </li>
+  <br>
   <li class="media my-4">
     <img class="mr-3" src="vive.jpg" width="200" height="200" alt="Generic placeholder image">
     <div class="media-body">
@@ -50,6 +51,7 @@ margin-bottom: 50px;
       由HTC公司发布的一款虚拟现实技术产品。这款产品内置耳机，且仅需要使用一根线缆连接一台高性能的PC电脑即可呈现拥有高分辨率的画面。
     </div>
   </li>
+  <br>
   <li class="media">
     <img class="mr-3" src="tms.jpg" width="200" height="200" alt="Generic placeholder image">
     <div class="media-body">
@@ -57,14 +59,16 @@ margin-bottom: 50px;
       经颅磁刺激技术利用脉冲磁场作用于中枢神经系统（主要是大脑）以改变皮层神经细胞的膜电位，使之产生感应电流，影响脑内代谢和神经电活动，从而引起一系列生理生化反应。
     </div>
   </li>
-  <li class="media">
+  <br>
+  <li class="media my-4">
     <img class="mr-3" src="eyelink.jpg" width="200" height="200" alt="Generic placeholder image">
     <div class="media-body">
       <h5 class="mt-0 mb-1">Eyelink Portable Duo</h5>
       Eyelink Portable Duo 眼动仪提供高速和低噪的眼动追踪算法支持头部稳定和遥测两种数据采集模式，采用便携的眼动追踪解决方案，适用多种研究场景，提供科研所需的高可靠和高精度数据；头部稳定模式支持高达2000 Hz的双眼追踪可用于实验室或非实验室研究，遥测模式支持1000 Hz的双眼追踪。
     </div>
   </li>
-  <li class="media">
+  <br>
+  <li class="media my-4">
     <img class="mr-3" src="mvn.jpg" width="200" height="200" alt="Generic placeholder image">
     <div class="media-body">
       <h5 class="mt-0 mb-1">MVN Awinda三维运动捕捉系统</h5>
