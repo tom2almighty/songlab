@@ -25,8 +25,8 @@ design:
 div{margin:24px;border:10;padding:10;}
     .photo{
         float:left;
-        width:300px;
-        height:200px;
+        width:100px;
+        height:100px;
     }
     .intro{
         float:right;
