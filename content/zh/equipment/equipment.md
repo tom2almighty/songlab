@@ -46,7 +46,7 @@ div{margin:5px;border:0;padding:0;}
   </div>
 </div>
 
-<br>
+<hr />
 
 <div class="container2">
    <div class="photo"><img src="tms.jpg" /></div>
@@ -56,7 +56,7 @@ div{margin:5px;border:0;padding:0;}
   </div>
 </div>
 
-<br>
+<hr />
 
 <div class="container3">
    <div class="photo"><img src="vive.jpg" /></div>
@@ -66,7 +66,7 @@ div{margin:5px;border:0;padding:0;}
   </div>
 </div>
 
-<br>
+<hr />
 
 <div class="container4">
    <div class="photo"><img src="eyelink.jpg" /></div>
@@ -76,7 +76,7 @@ div{margin:5px;border:0;padding:0;}
   </div>
 </div>
 
-<br>
+<hr />
 
 <div class="container1">
    <div class="photo"><img src="mvn.jpg" /></div>
@@ -86,7 +86,7 @@ div{margin:5px;border:0;padding:0;}
   </div>
 </div>
 
-
+<hr />
 
 
 </body>
