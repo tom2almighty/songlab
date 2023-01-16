@@ -1,5 +1,5 @@
 ---
-title: Spatial Cognition and Navigation
+title: 'Spatial Cognition and Navigation'
 
 
 

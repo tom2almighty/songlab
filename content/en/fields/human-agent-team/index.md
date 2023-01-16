@@ -1,5 +1,5 @@
 ---
-title: 智能人机组队
+title: 'Human-Agent Teaming'
 
 ---
 
