@@ -1,5 +1,5 @@
 ---
-title: 'Research on the influence and mechanism of interpersonal situation on operator's cooperation ability and job performance'
+title: "Research on the influence and mechanism of interpersonal situation on operator's cooperation ability and job performance"
 date_format: 2006-01-02
 tags:
   - host
