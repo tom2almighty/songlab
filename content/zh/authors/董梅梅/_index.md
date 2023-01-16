@@ -1,7 +1,7 @@
 ---
 title: 董梅梅
 role: 应用心理学博士在读
-
+weight: 10
 avatar_filename: avatar.jpg
 
 bio: 目前研究方向是人际交互与表征、人机交互。

@@ -3,7 +3,7 @@ title: 李宜倩
 role: 应用心理学博士在读
 
 avatar_filename: avatar.jpg
-
+weight: 20
 bio: 采用心理物理法、虚拟现实、眼动等技术手段，研究个体在空间导航中的神经机制及对导航绩效的提升应用。
 authors:
   - 李宜倩

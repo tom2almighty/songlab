@@ -1,13 +1,13 @@
 ---
-title: 未来家庭体验诉求调研
+title: 'Future family experience demand research'
 date_format: 2006-01-02
 tags:
   - host
 ---
 
 
-- :notebook: 华为
+- :notebook: Huawei Technologies Co., Ltd
 
 - :stopwatch: 2019-12-18-2020-06-30
 
-- :boy: 主持
+- :boy: Principal Investigator

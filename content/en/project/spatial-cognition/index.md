@@ -1,12 +1,12 @@
 ---
-title: 长期在轨飞行对航天员空间认知能力的影响研究
+title: 'Study on the influence of long-term in-orbit flight on space cognition ability of astronauts'
 tags:
  - participate
 
   
 ---
-- :notebook: 浙江大学
+- :notebook: Space medical experiment project
 
 - :stopwatch: 2020-01-01-2023-12-31
 
-- :boy: 参与
+- :boy: Participate

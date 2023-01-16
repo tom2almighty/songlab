@@ -1,10 +1,10 @@
 ---
-title: 人机系统设计中情绪对空间相容性的影响机制与功效启示
+title: 'The influence mechanism of emotion on spatial compatibility in human-computer system design and its efficacy enlightenment'
 tags:
  - host
 ---
-- :notebook: 国家自然科学基金委
+- :notebook: National Natural Science Foundation of China
 
 - :stopwatch: 2017-01-01-2018-12-31
 
-- :boy: 主持
+- :boy: Principal Investigator

@@ -1,13 +1,13 @@
 ---
-title: 中小学生视觉表象产生能力的发展趋势
+title: 'The development trend of visual imagery production ability of primary and secondary school students'
 date_format: 2006-01-02
 tags:
   - host
 ---
 
 
-- :notebook: 全国教育科学规划（教育部）项目
+- :notebook: National Education Scientific Planning Projects(Ministry of Education)
 
 - :stopwatch: 2010-07-01-2013-02-22
 
-- :boy: 主持
+- :boy: Principal Investigator

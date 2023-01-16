@@ -1,7 +1,7 @@
 ---
 title: 田珍珍
 role: 应用心理学博士在读
-
+weight: 30
 avatar_filename: avatar.jpg
 
 bio:
