@@ -17,7 +17,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:fei@snnu.edu.cn
+    link: mailto:huxiaofei@snnu.edu.cn
 education:
   courses:
     - course: 理学博士
